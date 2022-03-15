@@ -1,0 +1,12 @@
+.input-container {
+    display: flex;
+    width: 30%;
+}
+
+.section1 {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    height: 5em;
+}
